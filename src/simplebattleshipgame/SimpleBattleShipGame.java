@@ -116,7 +116,7 @@ public class SimpleBattleShipGame {
                 System.out.println("THE WINNER IS: \nCOMPUTER!");
             }
             else{
-                System.out.println("THE WINNER IS: \nUSER!");
+                System.out.println("THE WINNER IS: \nUSER!"); 
             }  
         
         scanner.close();
